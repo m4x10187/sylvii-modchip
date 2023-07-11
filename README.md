@@ -19,7 +19,7 @@ Softmodding is another alternative to playing imports and backups on your consol
 Building the chip requires basic soldering skills. The following materials is as follows:
 
 - Wii with a drive controller of DMS / D2A / D2B. [(check your model here)](https://www.wiidrives.com/)
-- PIC12F629/675I/SN SOP-8 8-bit microcontroller. [(1)](https://www.lcsc.com/product-detail/Microcontroller-Units-MCUs-MPUs-SOCs_Microchip-Tech-PIC12F629-I-SN_C8226.html) / [(2)](https://www.lcsc.com/product-detail/Microcontroller-Units-MCUs-MPUs-SOCs_Microchip-Tech-PIC12F675-I-SN_C9730.html)
+- PIC12F629/675-I/SN SOP-8 8-bit microcontroller. [(1)](https://www.lcsc.com/product-detail/Microcontroller-Units-MCUs-MPUs-SOCs_Microchip-Tech-PIC12F629-I-SN_C8226.html) / [(2)](https://www.lcsc.com/product-detail/Microcontroller-Units-MCUs-MPUs-SOCs_Microchip-Tech-PIC12F675-I-SN_C9730.html)
 - [6.3V 1uF multilayer ceramic capacitor (0805).](https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603F104M500NT_C42998.html)
 
 ### Installation
