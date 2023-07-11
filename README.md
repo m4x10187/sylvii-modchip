@@ -33,5 +33,7 @@ PCB thickness must be 1.2mm thick.
 
 ### Credits
 Sylveon character is a registered trademark of Pokémon Company. Nintendo can suck my balls, forking is necessary. :D
+
 PCB was designed with the open-source [KiCAD](https://www.kicad.org/) software.
+
 The project is open-source and is licensed by the DWTFYWWI license.
