@@ -1,0 +1,2 @@
+U1 = PIC12F629/675
+C1 = 0.1uF ceramic capacitor (0805)
