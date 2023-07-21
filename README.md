@@ -26,7 +26,7 @@ Building the chip requires basic soldering skills. The following materials is as
 Follow the installation diagram [here.](https://github.com/m4x10187/sylvii-modchip/blob/main/diagrams/sylvii-diagram-v1.pdf)
 
 ### Ordering the PCB
-PCB thickness must be 1.2mm thick.
+PCB thickness must be 1mm thick.
 
 - [JLCPCB](https://jlcpcb.com)
 - [PCBWay](https://pcbway.com)
