@@ -27,7 +27,7 @@ Follow the installation diagram [here.](https://github.com/m4x10187/sylvii-modch
 
 ### Ordering the PCB
 
-##Thickness:
+## Thickness:
 - without IC clip: 1mm
 - with IC clip: 1.2mm
 
