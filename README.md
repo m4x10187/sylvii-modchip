@@ -36,8 +36,7 @@ Follow the installation diagram [here.](https://github.com/m4x10187/sylvii-modch
 - [PCBWay](https://pcbway.com)
 
 ### Credits
-Sylveon character is a registered trademark of Pokémon Company. Nintendo can suck my balls, forking is necessary. :D
-
+Sylveon character is a registered trademark of Pokémon Company.
 PCB was designed with the open-source [KiCAD](https://www.kicad.org/) software.
 
-The project is open-source and is licensed by the DWTFYWWI license.
+The project is open-source and is licensed by under the CC0 V1.0 license.
