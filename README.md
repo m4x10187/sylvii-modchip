@@ -37,6 +37,7 @@ Follow the installation diagram [here.](https://github.com/m4x10187/sylvii-modch
 
 ### Credits
 Sylveon character is a registered trademark of Pokémon Company.
+
 PCB was designed with the open-source [KiCAD](https://www.kicad.org/) software.
 
-The project is open-source and is licensed by under the CC0 V1.0 license.
+The project is open-source and is licensed by under the ﻿CERN Open Hardware Licence v1.2 
